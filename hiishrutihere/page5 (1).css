@@ -77,3 +77,7 @@ body {
 .hidden{
     display: none;
 }
+
+.alternative{
+    background-color: #D3D3D3;
+}
